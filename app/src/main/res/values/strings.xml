@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProjeFix</string>
+    <string name="o_resultado_é">O Resultado é...</string>
+    <string name="result">.....</string>
+    <string name="result1">O Resultado é:</string>
+    <string name="digite_a">Digite um Número A:</string>
+    <string name="digite_b">Digite um Número B:</string>
+    <string name="paramain">paraMain</string>
+    <string name="paraExercicio2">paraEx2</string>
+    <string name="relogio">Relógio</string>
+    <string name="divisao">Divisão</string>
+    <string name="quant">Digite a Quantidade:</string>
+    <string name="saida2">...</string>
+    <string name="calc">Calcular total</string>
+    <string name="titulo">Cardápio</string>
+    <string name="cod">Digite a Letra Inicial do Item:</string>
+    <string name="txtcardapio">Cachorro Quente, Refrigerante e Sobremesa!</string>
+</resources>
