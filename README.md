@@ -45,7 +45,7 @@ Para a parte do cálculo, utilizamos um método de presente no botão da tela "c
 
 <br>
 
-Agora vem a parte da lógica, em que utilizamos a função Switch, que aparece na parte do código que contém os comandos "case" e "break", e no final do código, definimos um valor padrão para casos em que fogem da condição do programa, como letras inválidas.
+Agora vem a parte da lógica, em que utilizamos a função Switch, que aparece na parte do código que contém os comandos "case" e "break", e no final do código, definimos um valor padrão para casos em que fogem da condição do programa, como caracteres inválidos.
 
 <br>
 
