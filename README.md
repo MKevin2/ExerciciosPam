@@ -74,6 +74,13 @@ __Git Status__: novamente utilizado para ver se todos os arquivos ficam verdes.
 
 __Git -a -m__: utilizado para enviar previamente tudo que foi selecionado pelo git add com uma mensagem definida.
 
+__Git remote add origin__: faz a conexão da pasta do computador ao repositório do GitHub usando o link,no presente caso,usando o link: https://github.com/MKevin2/ExerciciosPam.git.
+
+
+__Git branch -M main__: vai parear na branch que receberá os dados.
+
+__Git push -u origin main__: o ato de enviar o código atual para o repositório remoto.
+
 <hr>
 
 Link do vídeo do funcionamento do aplicativo:  
